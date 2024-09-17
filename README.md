@@ -1,3 +1,3 @@
 # hello-world
 Test
-This is Alanakr.
+This is Alankar.
